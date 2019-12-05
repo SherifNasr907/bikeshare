@@ -1,6 +1,6 @@
 Introduction
 
-This is part of Udacity Python project that uses knowledge of Python's modules- Pandas and Numpy, to make sense of the bike sharing data provided, and answer relevant questions about it.
+This is part of Udacity Programming for data science project that uses knowledge of Python's modules- Pandas and Numpy, to make sense of the bike sharing data provided, and answer relevant questions about it.
 How to use
 
 This repository contains-
